@@ -1,7 +1,0 @@
-primer commit en master
-
-segundo commit en master
-
-añado mensaje en RAMA1
-
-primer commit RAMA2
